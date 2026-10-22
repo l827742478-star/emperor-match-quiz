@@ -1,0 +1,8 @@
+{
+  "name": "emperor-match-quiz",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/emperor-match.test.mjs"
+  }
+}
